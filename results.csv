@@ -1,0 +1,481 @@
+Filename,Prediction,Confidence,Result
+Unknown_0.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_105.jpg,Malignant,"['0.0008929367', '0.9991070628']",Unknown Original
+Unknown_101.jpg,Malignant,"['0.0004366154', '0.9995633960']",Unknown Original
+Unknown_1.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_100.jpg,Malignant,"['0.0000000570', '1.0000000000']",Unknown Original
+Unknown_102.jpg,Malignant,"['0.0000117173', '0.9999883175']",Unknown Original
+Unknown_10.jpg,Malignant,"['0.0000591827', '0.9999408722']",Unknown Original
+Unknown_104.jpg,Malignant,"['0.0000438025', '0.9999562502']",Unknown Original
+Unknown_103.jpg,Malignant,"['0.0002736684', '0.9997263551']",Unknown Original
+Unknown_106.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_107.jpg,Malignant,"['0.0000000926', '0.9999998808']",Unknown Original
+Unknown_112.jpg,Malignant,"['0.0000291387', '0.9999709129']",Unknown Original
+Unknown_110.jpg,Malignant,"['0.0000000018', '1.0000000000']",Unknown Original
+Unknown_109.jpg,Malignant,"['0.0000000018', '1.0000000000']",Unknown Original
+Unknown_111.jpg,Malignant,"['0.0000002278', '0.9999997616']",Unknown Original
+Unknown_108.jpg,Malignant,"['0.0003703126', '0.9996296167']",Unknown Original
+Unknown_11.jpg,Malignant,"['0.0007079532', '0.9992920160']",Unknown Original
+Unknown_115.jpg,Malignant,"['0.1097968966', '0.8902030587']",Unknown Original
+Unknown_114.jpg,Malignant,"['0.0403967611', '0.9596032500']",Unknown Original
+Unknown_113.jpg,Malignant,"['0.0000000028', '1.0000000000']",Unknown Original
+Unknown_116.jpg,Malignant,"['0.0001341553', '0.9998657703']",Unknown Original
+Unknown_121.jpg,Malignant,"['0.0000018031', '0.9999982119']",Unknown Original
+Unknown_117.jpg,Malignant,"['0.0000103334', '0.9999896288']",Unknown Original
+Unknown_119.jpg,Malignant,"['0.0005164956', '0.9994834661']",Unknown Original
+Unknown_118.jpg,Malignant,"['0.0077859717', '0.9922140241']",Unknown Original
+Unknown_122.jpg,Malignant,"['0.0000000001', '1.0000000000']",Unknown Original
+Unknown_123.jpg,Malignant,"['0.0558176599', '0.9441823363']",Unknown Original
+Unknown_124.jpg,Malignant,"['0.0000079761', '0.9999920130']",Unknown Original
+Unknown_120.jpg,Malignant,"['0.0000127457', '0.9999872446']",Unknown Original
+Unknown_12.jpg,Malignant,"['0.0000891458', '0.9999108315']",Unknown Original
+Unknown_125.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_15.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_127.jpg,Malignant,"['0.0000000997', '0.9999998808']",Unknown Original
+Unknown_126.jpg,Malignant,"['0.0000000031', '1.0000000000']",Unknown Original
+Unknown_13.jpg,Malignant,"['0.0000000052', '1.0000000000']",Unknown Original
+Unknown_19.jpg,Malignant,"['0.0004909846', '0.9995089769']",Unknown Original
+Unknown_14.jpg,Malignant,"['0.0000011637', '0.9999988079']",Unknown Original
+Unknown_17.jpg,Malignant,"['0.0000044576', '0.9999955893']",Unknown Original
+Unknown_18.jpg,Malignant,"['0.0004484816', '0.9995514750']",Unknown Original
+Unknown_16.jpg,Malignant,"['0.0000003821', '0.9999996424']",Unknown Original
+Unknown_2.jpg,Malignant,"['0.1354451180', '0.8645548224']",Unknown Original
+Unknown_23.jpg,Benign,"['0.9963223934', '0.0036776564']",Unknown Original
+Unknown_20.jpg,Malignant,"['0.0000076381', '0.9999923706']",Unknown Original
+Unknown_22.jpg,Malignant,"['0.0050043780', '0.9949955940']",Unknown Original
+Unknown_21.jpg,Malignant,"['0.0004053419', '0.9995946288']",Unknown Original
+Unknown_24.jpg,Malignant,"['0.0000567136', '0.9999432564']",Unknown Original
+Unknown_25.jpg,Malignant,"['0.0002848656', '0.9997151494']",Unknown Original
+Unknown_26.jpg,Malignant,"['0.0000196655', '0.9999803305']",Unknown Original
+Unknown_29.jpg,Malignant,"['0.0038896427', '0.9961103797']",Unknown Original
+Unknown_28.jpg,Malignant,"['0.0000024586', '0.9999974966']",Unknown Original
+Unknown_27.jpg,Malignant,"['0.0000316250', '0.9999684095']",Unknown Original
+Unknown_3.jpg,Malignant,"['0.1236952096', '0.8763048053']",Unknown Original
+Unknown_31.jpg,Malignant,"['0.0007132177', '0.9992868304']",Unknown Original
+Unknown_30.jpg,Malignant,"['0.0006780138', '0.9993220568']",Unknown Original
+Unknown_32.jpg,Malignant,"['0.0026015341', '0.9973984957']",Unknown Original
+Unknown_38.jpg,Malignant,"['0.0000223582', '0.9999775887']",Unknown Original
+Unknown_37.jpg,Benign,"['0.9863692522', '0.0136307692']",Unknown Original
+Unknown_35.jpg,Malignant,"['0.0000177262', '0.9999822378']",Unknown Original
+Unknown_36.jpg,Malignant,"['0.0000177262', '0.9999822378']",Unknown Original
+Unknown_34.jpg,Malignant,"['0.0005438596', '0.9994561076']",Unknown Original
+Unknown_33.jpg,Malignant,"['0.0002510848', '0.9997488856']",Unknown Original
+Unknown_4.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_39.jpg,Malignant,"['0.0030771743', '0.9969227910']",Unknown Original
+Unknown_40.jpg,Malignant,"['0.0000251145', '0.9999748468']",Unknown Original
+Unknown_41.jpg,Malignant,"['0.0000072629', '0.9999927282']",Unknown Original
+Unknown_43.jpg,Benign,"['0.9695814252', '0.0304185748']",Unknown Original
+Unknown_42.jpg,Benign,"['0.9695814252', '0.0304185748']",Unknown Original
+Unknown_47.jpg,Malignant,"['0.0000002806', '0.9999997616']",Unknown Original
+Unknown_49.jpg,Malignant,"['0.0000067731', '0.9999932051']",Unknown Original
+Unknown_5.jpg,Malignant,"['0.0000127457', '0.9999872446']",Unknown Original
+Unknown_48.jpg,Malignant,"['0.0000000116', '1.0000000000']",Unknown Original
+Unknown_45.jpg,Malignant,"['0.0000000440', '1.0000000000']",Unknown Original
+Unknown_44.jpg,Malignant,"['0.1036563516', '0.8963437080']",Unknown Original
+Unknown_46.jpg,Malignant,"['0.0000001253', '0.9999998808']",Unknown Original
+Unknown_50.jpg,Malignant,"['0.0911582485', '0.9088417292']",Unknown Original
+Unknown_54.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_52.jpg,Benign,"['0.8429930806', '0.1570069194']",Unknown Original
+Unknown_51.jpg,Malignant,"['0.0000009372', '0.9999990463']",Unknown Original
+Unknown_53.jpg,Malignant,"['0.0011862342', '0.9988137484']",Unknown Original
+Unknown_55.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_6.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_56.jpg,Benign,"['0.8755095601', '0.1244904846']",Unknown Original
+Unknown_57.jpg,Malignant,"['0.0008627163', '0.9991372824']",Unknown Original
+Unknown_60.jpg,Malignant,"['0.0001264530', '0.9998735189']",Unknown Original
+Unknown_61.jpg,Malignant,"['0.0024061850', '0.9975938201']",Unknown Original
+Unknown_59.jpg,Malignant,"['0.0000969466', '0.9999030828']",Unknown Original
+Unknown_58.jpg,Malignant,"['0.0009577008', '0.9990423322']",Unknown Original
+Unknown_62.jpg,Malignant,"['0.0000000182', '1.0000000000']",Unknown Original
+Unknown_63.jpg,Malignant,"['0.0013606378', '0.9986394048']",Unknown Original
+Unknown_7.jpg,Malignant,"['0.0000127457', '0.9999872446']",Unknown Original
+Unknown_67.jpg,Benign,"['0.6963206530', '0.3036793768']",Unknown Original
+Unknown_64.jpg,Malignant,"['0.0000000746', '0.9999998808']",Unknown Original
+Unknown_66.jpg,Malignant,"['0.0939349905', '0.9060649872']",Unknown Original
+Unknown_68.jpg,Malignant,"['0.1215899661', '0.8784099817']",Unknown Original
+Unknown_65.jpg,Malignant,"['0.0002271282', '0.9997728467']",Unknown Original
+Unknown_71.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_70.jpg,Malignant,"['0.0160711687', '0.9839287996']",Unknown Original
+Unknown_69.jpg,Malignant,"['0.0000437894', '0.9999562502']",Unknown Original
+Unknown_72.jpg,Malignant,"['0.0000004719', '0.9999995232']",Unknown Original
+Unknown_78.jpg,Malignant,"['0.0000255631', '0.9999744892']",Unknown Original
+Unknown_74.jpg,Malignant,"['0.0000356223', '0.9999643564']",Unknown Original
+Unknown_75.jpg,Malignant,"['0.0000057982', '0.9999941587']",Unknown Original
+Unknown_76.jpg,Malignant,"['0.0000000851', '0.9999998808']",Unknown Original
+Unknown_73.jpg,Malignant,"['0.0000364329', '0.9999635220']",Unknown Original
+Unknown_8.jpg,Malignant,"['0.0000127457', '0.9999872446']",Unknown Original
+Unknown_80.jpg,Malignant,"['0.0000092279', '0.9999908209']",Unknown Original
+Unknown_79.jpg,Malignant,"['0.0106700435', '0.9893299937']",Unknown Original
+Unknown_77.jpg,Malignant,"['0.0000034527', '0.9999965429']",Unknown Original
+Unknown_81.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_85.jpg,Malignant,"['0.0000041738', '0.9999958277']",Unknown Original
+Unknown_83.jpg,Malignant,"['0.0143311815', '0.9856687784']",Unknown Original
+Unknown_82.jpg,Malignant,"['0.0001328406', '0.9998672009']",Unknown Original
+Unknown_84.jpg,Malignant,"['0.0000000007', '1.0000000000']",Unknown Original
+Unknown_87.jpg,Malignant,"['0.0000000421', '1.0000000000']",Unknown Original
+Unknown_86.jpg,Malignant,"['0.0000004111', '0.9999996424']",Unknown Original
+Unknown_9.jpg,Malignant,"['0.0000001331', '0.9999998808']",Unknown Original
+Unknown_89.jpg,Malignant,"['0.0042152354', '0.9957846999']",Unknown Original
+Unknown_88.jpg,Malignant,"['0.0010538689', '0.9989461303']",Unknown Original
+Unknown_90.jpg,Malignant,"['0.0000000434', '1.0000000000']",Unknown Original
+Unknown_92.jpg,Malignant,"['0.0004071873', '0.9995928407']",Unknown Original
+Unknown_93.jpg,Malignant,"['0.0000000451', '1.0000000000']",Unknown Original
+Unknown_91.jpg,Malignant,"['0.0000153237', '0.9999846220']",Unknown Original
+Unknown_94.jpg,Malignant,"['0.0006621872', '0.9993377328']",Unknown Original
+Unknown_97.jpg,Malignant,"['0.0080276523', '0.9919723272']",Unknown Original
+Unknown_96.jpg,Malignant,"['0.0002645053', '0.9997355342']",Unknown Original
+Unknown_95.jpg,Malignant,"['0.0000000000', '1.0000000000']",Unknown Original
+Unknown_99.jpg,Malignant,"['0.0000057461', '0.9999942780']",Unknown Original
+Unknown_98.jpg,Benign,"['0.6661053300', '0.3338946402']",Unknown Original
+4A_0.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4A_10.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4A_11.jpg,Malignant,"['0.0000002670', '0.9999997616']",Correct
+4A_12.jpg,Malignant,"['0.0000000290', '1.0000000000']",Correct
+4A_1.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4A_15.jpg,Malignant,"['0.0000045136', '0.9999954700']",Correct
+4A_13.jpg,Malignant,"['0.0000000522', '1.0000000000']",Correct
+4A_14.jpg,Malignant,"['0.0000353763', '0.9999645948']",Correct
+4A_18.jpg,Malignant,"['0.0000174861', '0.9999824762']",Correct
+4A_19.jpg,Malignant,"['0.0000000569', '1.0000000000']",Correct
+4A_2.jpg,Malignant,"['0.0000000007', '1.0000000000']",Correct
+4A_16.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4A_17.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4A_20.jpg,Benign,"['0.9482111931', '0.0517888665']",Incorrect
+4A_22.jpg,Malignant,"['0.0006618642', '0.9993380904']",Correct
+4A_23.jpg,Benign,"['0.8829112053', '0.1170888692']",Incorrect
+4A_24.jpg,Malignant,"['0.1371512413', '0.8628487587']",Correct
+4A_21.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4A_26.jpg,Malignant,"['0.0000034724', '0.9999965429']",Correct
+4A_25.jpg,Malignant,"['0.0000001523', '0.9999998808']",Correct
+4A_27.jpg,Malignant,"['0.0000000532', '1.0000000000']",Correct
+4A_3.jpg,Malignant,"['0.0000003562', '0.9999996424']",Correct
+4A_30.jpg,Malignant,"['0.0000028596', '0.9999971390']",Correct
+4A_31.jpg,Malignant,"['0.0047995355', '0.9952003956']",Correct
+4A_33.jpg,Malignant,"['0.0000090095', '0.9999909401']",Correct
+4A_34.jpg,Malignant,"['0.0218653306', '0.9781346321']",Correct
+4A_35.jpg,Malignant,"['0.0004190055', '0.9995810390']",Correct
+4A_36.jpg,Malignant,"['0.0000000017', '1.0000000000']",Correct
+4A_28.jpg,Malignant,"['0.0000112441', '0.9999887943']",Correct
+4A_29.jpg,Malignant,"['0.0000004787', '0.9999995232']",Correct
+4A_32.jpg,Benign,"['0.9990361929', '0.0009637778']",Incorrect
+4A_37.jpg,Malignant,"['0.0000000603', '0.9999998808']",Correct
+4A_39.jpg,Malignant,"['0.0000000028', '1.0000000000']",Correct
+4A_38.jpg,Malignant,"['0.0000061678', '0.9999938011']",Correct
+4A_4.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4A_40.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4A_43.jpg,Malignant,"['0.0000000004', '1.0000000000']",Correct
+4A_45.jpg,Benign,"['0.8400541544', '0.1599458009']",Incorrect
+4A_46.jpg,Malignant,"['0.0000025722', '0.9999973774']",Correct
+4A_41.jpg,Malignant,"['0.0000002491', '0.9999997616']",Correct
+4A_42.jpg,Benign,"['0.9962679744', '0.0037320412']",Incorrect
+4A_47.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4A_44.jpg,Malignant,"['0.0000111053', '0.9999889135']",Correct
+4A_49.jpg,Malignant,"['0.0000000003', '1.0000000000']",Correct
+4A_48.jpg,Malignant,"['0.0439575315', '0.9560424685']",Correct
+4A_5.jpg,Malignant,"['0.0007692838', '0.9992307425']",Correct
+4A_52.jpg,Malignant,"['0.0000000047', '1.0000000000']",Correct
+4A_51.jpg,Malignant,"['0.0115369121', '0.9884631038']",Correct
+4A_55.jpg,Malignant,"['0.0000722889', '0.9999277592']",Correct
+4A_56.jpg,Malignant,"['0.0000000346', '1.0000000000']",Correct
+4A_57.jpg,Malignant,"['0.0002164035', '0.9997835755']",Correct
+4A_58.jpg,Malignant,"['0.0002355388', '0.9997645020']",Correct
+4A_50.jpg,Malignant,"['0.0000006954', '0.9999992847']",Correct
+4A_59.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4A_53.jpg,Malignant,"['0.0911582485', '0.9088417292']",Correct
+4A_54.jpg,Benign,"['0.9841009974', '0.0158989895']",Incorrect
+4A_6.jpg,Malignant,"['0.0000009780', '0.9999990463']",Correct
+4A_60.jpg,Benign,"['0.5290286541', '0.4709713757']",Incorrect
+4A_62.jpg,Malignant,"['0.0069715655', '0.9930284619']",Correct
+4A_61.jpg,Malignant,"['0.0127999634', '0.9872000217']",Correct
+4A_63.jpg,Malignant,"['0.0722081736', '0.9277918935']",Correct
+4A_65.jpg,Malignant,"['0.0000000390', '1.0000000000']",Correct
+4A_66.jpg,Malignant,"['0.0000000222', '1.0000000000']",Correct
+4A_67.jpg,Benign,"['0.8880841732', '0.1119158268']",Incorrect
+4A_68.jpg,Malignant,"['0.0005045278', '0.9994955063']",Correct
+4A_69.jpg,Malignant,"['0.0003848767', '0.9996150732']",Correct
+4A_7.jpg,Malignant,"['0.0000002013', '0.9999997616']",Correct
+4A_64.jpg,Malignant,"['0.1035803407', '0.8964196444']",Correct
+4A_72.jpg,Malignant,"['0.0481203906', '0.9518796802']",Correct
+4A_74.jpg,Malignant,"['0.0003130984', '0.9996869564']",Correct
+4A_75.jpg,Malignant,"['0.0000001877', '0.9999997616']",Correct
+4A_73.jpg,Malignant,"['0.0000000028', '1.0000000000']",Correct
+4A_76.jpg,Malignant,"['0.0000000002', '1.0000000000']",Correct
+4A_71.jpg,Malignant,"['0.0000536367', '0.9999463558']",Correct
+4A_70.jpg,Malignant,"['0.0001315917', '0.9998683929']",Correct
+4A_77.jpg,Malignant,"['0.0000496518', '0.9999502897']",Correct
+4A_79.jpg,Malignant,"['0.0000000258', '1.0000000000']",Correct
+4A_8.jpg,Malignant,"['0.0002368097', '0.9997631907']",Correct
+4A_81.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4A_80.jpg,Malignant,"['0.0116403159', '0.9883596897']",Correct
+4A_78.jpg,Malignant,"['0.0000000003', '1.0000000000']",Correct
+4A_82.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4A_84.jpg,Malignant,"['0.0000000156', '1.0000000000']",Correct
+4A_83.jpg,Malignant,"['0.0000016946', '0.9999983311']",Correct
+4A_87.jpg,Benign,"['0.9978685379', '0.0021314174']",Incorrect
+4A_88.jpg,Malignant,"['0.0130240191', '0.9869759679']",Correct
+4A_90.jpg,Malignant,"['0.0000009260', '0.9999990463']",Correct
+4A_89.jpg,Malignant,"['0.1354451180', '0.8645548224']",Correct
+4A_85.jpg,Malignant,"['0.0000018929', '0.9999980927']",Correct
+4A_86.jpg,Malignant,"['0.0381175242', '0.9618824720']",Correct
+4A_91.jpg,Malignant,"['0.0000034611', '0.9999965429']",Correct
+4A_92.jpg,Malignant,"['0.0019481631', '0.9980518818']",Correct
+4A_93.jpg,Malignant,"['0.0017697361', '0.9982302785']",Correct
+4A_94.jpg,Malignant,"['0.0110913496', '0.9889087081']",Correct
+4A_95.jpg,Malignant,"['0.0001943108', '0.9998057485']",Correct
+4A_96.jpg,Malignant,"['0.0000005083', '0.9999995232']",Correct
+4A_9.jpg,Malignant,"['0.0000000003', '1.0000000000']",Correct
+4A_97.jpg,Malignant,"['0.0000050233', '0.9999949932']",Correct
+4B_0.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4B_11.jpg,Malignant,"['0.0000002794', '0.9999997616']",Correct
+4B_13.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4B_14.jpg,Malignant,"['0.0000000572', '1.0000000000']",Correct
+4B_15.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4B_17.jpg,Malignant,"['0.0000953150', '0.9999046326']",Correct
+4B_16.jpg,Malignant,"['0.0000000033', '1.0000000000']",Correct
+4B_12.jpg,Malignant,"['0.0000079554', '0.9999920130']",Correct
+4B_19.jpg,Malignant,"['0.0000000255', '1.0000000000']",Correct
+4B_18.jpg,Benign,"['0.9997871518', '0.0002129113']",Incorrect
+4B_2.jpg,Malignant,"['0.0000008197', '0.9999991655']",Correct
+4B_20.jpg,Malignant,"['0.0196551140', '0.9803448319']",Correct
+4B_21.jpg,Malignant,"['0.0000171339', '0.9999828339']",Correct
+4B_22.jpg,Malignant,"['0.0532023646', '0.9467976093']",Correct
+4B_1.jpg,Malignant,"['0.0000000028', '1.0000000000']",Correct
+4B_10.jpg,Malignant,"['0.0000676158', '0.9999324083']",Correct
+4B_23.jpg,Malignant,"['0.0001333806', '0.9998666048']",Correct
+4B_25.jpg,Malignant,"['0.0003650724', '0.9996348619']",Correct
+4B_26.jpg,Malignant,"['0.0434630290', '0.9565369487']",Correct
+4B_27.jpg,Benign,"['0.6164121628', '0.3835878372']",Incorrect
+4B_28.jpg,Malignant,"['0.0000002461', '0.9999997616']",Correct
+4B_29.jpg,Benign,"['0.6763477325', '0.3236522675']",Incorrect
+4B_24.jpg,Benign,"['0.5831164122', '0.4168836176']",Incorrect
+4B_3.jpg,Malignant,"['0.0000009780', '0.9999990463']",Correct
+4B_32.jpg,Malignant,"['0.0000000259', '1.0000000000']",Correct
+4B_33.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4B_34.jpg,Malignant,"['0.0000000090', '1.0000000000']",Correct
+4B_35.jpg,Malignant,"['0.0000001263', '0.9999998808']",Correct
+4B_36.jpg,Malignant,"['0.0000000075', '1.0000000000']",Correct
+4B_30.jpg,Malignant,"['0.1303437948', '0.8696562052']",Correct
+4B_31.jpg,Malignant,"['0.0000443231', '0.9999556541']",Correct
+4B_37.jpg,Malignant,"['0.0520882346', '0.9479117990']",Correct
+4B_39.jpg,Benign,"['0.5651028156', '0.4348971844']",Incorrect
+4B_4.jpg,Malignant,"['0.0000098424', '0.9999901056']",Correct
+4B_40.jpg,Malignant,"['0.0054627275', '0.9945372939']",Correct
+4B_41.jpg,Malignant,"['0.0018462701', '0.9981537461']",Correct
+4B_38.jpg,Malignant,"['0.1526030898', '0.8473969102']",Correct
+4B_42.jpg,Malignant,"['0.0000005807', '0.9999994040']",Correct
+4B_43.jpg,Benign,"['0.9993128777', '0.0006871121']",Incorrect
+4B_48.jpg,Malignant,"['0.0121801943', '0.9878197908']",Correct
+4B_46.jpg,Malignant,"['0.0000000002', '1.0000000000']",Correct
+4B_44.jpg,Malignant,"['0.0000044934', '0.9999954700']",Correct
+4B_49.jpg,Malignant,"['0.0000127457', '0.9999872446']",Correct
+4B_5.jpg,Malignant,"['0.0000001712', '0.9999998808']",Correct
+4B_45.jpg,Benign,"['0.9121290445', '0.0878710151']",Incorrect
+4B_50.jpg,Malignant,"['0.0000056168', '0.9999943972']",Correct
+4B_51.jpg,Malignant,"['0.0001356847', '0.9998643398']",Correct
+4B_52.jpg,Malignant,"['0.3722069860', '0.6277930140']",Correct
+4B_53.jpg,Malignant,"['0.0726514831', '0.9273484945']",Correct
+4B_47.jpg,Malignant,"['0.0771829262', '0.9228170514']",Correct
+4B_54.jpg,Malignant,"['0.0000000026', '1.0000000000']",Correct
+4B_55.jpg,Malignant,"['0.0000096206', '0.9999903440']",Correct
+4B_58.jpg,Malignant,"['0.0000000601', '0.9999998808']",Correct
+4B_59.jpg,Malignant,"['0.0000236753', '0.9999762774']",Correct
+4B_6.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4B_60.jpg,Malignant,"['0.0095988484', '0.9904012084']",Correct
+4B_61.jpg,Malignant,"['0.0736839026', '0.9263160825']",Correct
+4B_57.jpg,Malignant,"['0.0000000041', '1.0000000000']",Correct
+4B_56.jpg,Malignant,"['0.0000009661', '0.9999990463']",Correct
+4B_62.jpg,Malignant,"['0.0000000003', '1.0000000000']",Correct
+4B_64.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4B_65.jpg,Malignant,"['0.0000001573', '0.9999998808']",Correct
+4B_66.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4B_67.jpg,Malignant,"['0.0000098877', '0.9999901056']",Correct
+4B_68.jpg,Malignant,"['0.0000032832', '0.9999966621']",Correct
+4B_69.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4B_7.jpg,Malignant,"['0.0000000481', '1.0000000000']",Correct
+4B_63.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4B_70.jpg,Malignant,"['0.0021360840', '0.9978639483']",Correct
+4B_71.jpg,Malignant,"['0.0000284016', '0.9999716282']",Correct
+4B_75.jpg,Malignant,"['0.0000002362', '0.9999997616']",Correct
+4B_76.jpg,Malignant,"['0.0000000006', '1.0000000000']",Correct
+4B_74.jpg,Malignant,"['0.0000000003', '1.0000000000']",Correct
+4B_78.jpg,Malignant,"['0.0000000002', '1.0000000000']",Correct
+4B_8.jpg,Malignant,"['0.0000002584', '0.9999997616']",Correct
+4B_73.jpg,Malignant,"['0.0407390296', '0.9592610002']",Correct
+4B_72.jpg,Malignant,"['0.0053555258', '0.9946445227']",Correct
+4B_79.jpg,Malignant,"['0.0000000016', '1.0000000000']",Correct
+4B_9.jpg,Malignant,"['0.0000000001', '1.0000000000']",Correct
+4B_77.jpg,Malignant,"['0.0000000014', '1.0000000000']",Correct
+4C_0.jpg,Malignant,"['0.0000001076', '0.9999998808']",Correct
+4C_1.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4C_10.jpg,Malignant,"['0.0000000111', '1.0000000000']",Correct
+4C_11.jpg,Malignant,"['0.0000073841', '0.9999926090']",Correct
+4C_12.jpg,Malignant,"['0.0000064604', '0.9999935627']",Correct
+4C_15.jpg,Benign,"['0.6940872669', '0.3059127331']",Incorrect
+4C_16.jpg,Malignant,"['0.0013562971', '0.9986436963']",Correct
+4C_17.jpg,Malignant,"['0.0000020165', '0.9999979734']",Correct
+4C_13.jpg,Malignant,"['0.0000912772', '0.9999086857']",Correct
+4C_14.jpg,Malignant,"['0.1781421006', '0.8218578696']",Correct
+4C_18.jpg,Malignant,"['0.0000018923', '0.9999980927']",Correct
+4C_2.jpg,Malignant,"['0.0053681945', '0.9946317673']",Correct
+4C_20.jpg,Malignant,"['0.0047403807', '0.9952595830']",Correct
+4C_21.jpg,Malignant,"['0.0000072983', '0.9999927282']",Correct
+4C_22.jpg,Malignant,"['0.0017504251', '0.9982495904']",Correct
+4C_23.jpg,Malignant,"['0.0000016629', '0.9999983311']",Correct
+4C_19.jpg,Malignant,"['0.3804846406', '0.6195152998']",Correct
+4C_25.jpg,Malignant,"['0.0000569134', '0.9999431372']",Correct
+4C_27.jpg,Malignant,"['0.0000028819', '0.9999971390']",Correct
+4C_24.jpg,Malignant,"['0.0022422599', '0.9977577329']",Correct
+4C_26.jpg,Malignant,"['0.0000018610', '0.9999980927']",Correct
+4C_28.jpg,Malignant,"['0.0133022331', '0.9866977334']",Correct
+4C_29.jpg,Malignant,"['0.0000000010', '1.0000000000']",Correct
+4C_3.jpg,Malignant,"['0.0000037278', '0.9999963045']",Correct
+4C_30.jpg,Malignant,"['0.0289842803', '0.9710157514']",Correct
+4C_32.jpg,Malignant,"['0.0000000008', '1.0000000000']",Correct
+4C_33.jpg,Malignant,"['0.0004572490', '0.9995428324']",Correct
+4C_34.jpg,Malignant,"['0.0000000090', '1.0000000000']",Correct
+4C_35.jpg,Malignant,"['0.3394622803', '0.6605376601']",Correct
+4C_37.jpg,Malignant,"['0.0004480121', '0.9995519519']",Correct
+4C_39.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4C_31.jpg,Malignant,"['0.0000436992', '0.9999562502']",Correct
+4C_4.jpg,Malignant,"['0.0000008721', '0.9999991655']",Correct
+4C_36.jpg,Malignant,"['0.0000705423', '0.9999294281']",Correct
+4C_38.jpg,Malignant,"['0.0000920814', '0.9999078512']",Correct
+4C_40.jpg,Malignant,"['0.0085706357', '0.9914293885']",Correct
+4C_42.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+4C_41.jpg,Malignant,"['0.0000053557', '0.9999946356']",Correct
+4C_43.jpg,Malignant,"['0.0000002871', '0.9999997616']",Correct
+4C_44.jpg,Malignant,"['0.0178528521', '0.9821471572']",Correct
+4C_46.jpg,Benign,"['0.9999759197', '0.0000240869']",Incorrect
+4C_49.jpg,Malignant,"['0.0000001997', '0.9999997616']",Correct
+4C_50.jpg,Malignant,"['0.0022863005', '0.9977136850']",Correct
+4C_5.jpg,Malignant,"['0.0000000716', '0.9999998808']",Correct
+4C_51.jpg,Malignant,"['0.0000122302', '0.9999877214']",Correct
+4C_48.jpg,Malignant,"['0.0127470363', '0.9872528911']",Correct
+4C_47.jpg,Malignant,"['0.0000007084', '0.9999992847']",Correct
+4C_52.jpg,Benign,"['0.9909223914', '0.0090775406']",Incorrect
+4C_53.jpg,Malignant,"['0.0000201646', '0.9999798536']",Correct
+4C_45.jpg,Malignant,"['0.0028823195', '0.9971176386']",Correct
+4C_57.jpg,Malignant,"['0.0000041440', '0.9999958277']",Correct
+4C_55.jpg,Malignant,"['0.0000003306', '0.9999996424']",Correct
+4C_56.jpg,Benign,"['0.9421157241', '0.0578842722']",Incorrect
+4C_54.jpg,Malignant,"['0.0000043855', '0.9999955893']",Correct
+4C_58.jpg,Malignant,"['0.0000000035', '1.0000000000']",Correct
+4C_60.jpg,Malignant,"['0.0000050378', '0.9999949932']",Correct
+4C_61.jpg,Malignant,"['0.0000148875', '0.9999850988']",Correct
+4C_63.jpg,Benign,"['0.9900643229', '0.0099356873']",Incorrect
+4C_6.jpg,Malignant,"['0.0000000991', '0.9999998808']",Correct
+4C_59.jpg,Malignant,"['0.0001991894', '0.9998008609']",Correct
+4C_64.jpg,Malignant,"['0.0000000037', '1.0000000000']",Correct
+4C_65.jpg,Malignant,"['0.0159534216', '0.9840465188']",Correct
+4C_66.jpg,Malignant,"['0.0036714764', '0.9963285327']",Correct
+4C_67.jpg,Malignant,"['0.1710291356', '0.8289708495']",Correct
+4C_68.jpg,Malignant,"['0.0000032096', '0.9999967813']",Correct
+4C_62.jpg,Malignant,"['0.1739329100', '0.8260670900']",Correct
+4C_7.jpg,Malignant,"['0.0000005097', '0.9999995232']",Correct
+4C_8.jpg,Malignant,"['0.0000000024', '1.0000000000']",Correct
+4C_9.jpg,Malignant,"['0.0000000095', '1.0000000000']",Correct
+5_10.jpg,Malignant,"['0.0000000015', '1.0000000000']",Correct
+5_12.jpg,Benign,"['0.5934141874', '0.4065858126']",Incorrect
+5_13.jpg,Malignant,"['0.0015279198', '0.9984720349']",Correct
+5_14.jpg,Malignant,"['0.0000000045', '1.0000000000']",Correct
+5_1.jpg,Malignant,"['0.0000125987', '0.9999873638']",Correct
+5_0.jpg,Malignant,"['0.0000000100', '1.0000000000']",Correct
+5_11.jpg,Malignant,"['0.0003693964', '0.9996305704']",Correct
+5_15.jpg,Malignant,"['0.0000000476', '1.0000000000']",Correct
+5_17.jpg,Malignant,"['0.1166869253', '0.8833130598']",Correct
+5_16.jpg,Malignant,"['0.0000000027', '1.0000000000']",Correct
+5_18.jpg,Malignant,"['0.0000470807', '0.9999529123']",Correct
+5_19.jpg,Benign,"['0.9216202497', '0.0783797130']",Incorrect
+5_20.jpg,Malignant,"['0.0000000014', '1.0000000000']",Correct
+5_24.jpg,Malignant,"['0.0000374250', '0.9999625683']",Correct
+5_21.jpg,Malignant,"['0.0000000181', '1.0000000000']",Correct
+5_25.jpg,Malignant,"['0.0000008939', '0.9999991655']",Correct
+5_26.jpg,Malignant,"['0.0000015869', '0.9999984503']",Correct
+5_2.jpg,Malignant,"['0.0000003147', '0.9999996424']",Correct
+5_27.jpg,Malignant,"['0.0344024748', '0.9655975103']",Correct
+5_28.jpg,Malignant,"['0.0000443124', '0.9999556541']",Correct
+5_23.jpg,Malignant,"['0.0000000522', '1.0000000000']",Correct
+5_22.jpg,Malignant,"['0.0000001369', '0.9999998808']",Correct
+5_29.jpg,Malignant,"['0.0000083741', '0.9999916553']",Correct
+5_30.jpg,Malignant,"['0.0000006846', '0.9999992847']",Correct
+5_3.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+5_32.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+5_33.jpg,Malignant,"['0.0007258785', '0.9992740750']",Correct
+5_34.jpg,Malignant,"['0.2011157721', '0.7988842130']",Correct
+5_35.jpg,Malignant,"['0.0006007670', '0.9993991852']",Correct
+5_31.jpg,Malignant,"['0.0000000014', '1.0000000000']",Correct
+5_36.jpg,Malignant,"['0.0023300580', '0.9976698756']",Correct
+5_37.jpg,Malignant,"['0.0000004074', '0.9999996424']",Correct
+5_4.jpg,Malignant,"['0.0000007068', '0.9999992847']",Correct
+5_41.jpg,Malignant,"['0.0000008267', '0.9999991655']",Correct
+5_42.jpg,Malignant,"['0.0005536856', '0.9994463325']",Correct
+5_43.jpg,Malignant,"['0.0000000002', '1.0000000000']",Correct
+5_44.jpg,Malignant,"['0.0000000556', '1.0000000000']",Correct
+5_5.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+5_39.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+5_38.jpg,Benign,"['0.9992544055', '0.0007455485']",Incorrect
+5_40.jpg,Malignant,"['0.0000018302', '0.9999982119']",Correct
+5_6.jpg,Malignant,"['0.0000000000', '1.0000000000']",Correct
+5_7.jpg,Malignant,"['0.0000783240', '0.9999216795']",Correct
+5_8.jpg,Malignant,"['0.0039248439', '0.9960750937']",Correct
+5_9.jpg,Malignant,"['0.0000000116', '1.0000000000']",Correct
+2_11.jpg,Malignant,"['0.0000000519', '1.0000000000']",Incorrect
+2_12.jpg,Malignant,"['0.0000000185', '1.0000000000']",Incorrect
+2_13.jpg,Malignant,"['0.0000001271', '0.9999998808']",Incorrect
+2_0.jpg,Malignant,"['0.0000000384', '1.0000000000']",Incorrect
+2_1.jpg,Malignant,"['0.0000013150', '0.9999986887']",Incorrect
+2_10.jpg,Malignant,"['0.0000000000', '1.0000000000']",Incorrect
+2_14.jpg,Malignant,"['0.0069545517', '0.9930453897']",Incorrect
+2_16.jpg,Malignant,"['0.0000003736', '0.9999996424']",Incorrect
+2_17.jpg,Malignant,"['0.0000000000', '1.0000000000']",Incorrect
+2_18.jpg,Malignant,"['0.0000000131', '1.0000000000']",Incorrect
+2_19.jpg,Malignant,"['0.0000003579', '0.9999996424']",Incorrect
+2_15.jpg,Malignant,"['0.0000000212', '1.0000000000']",Incorrect
+2_20.jpg,Malignant,"['0.0000000009', '1.0000000000']",Incorrect
+2_23.jpg,Malignant,"['0.0924811438', '0.9075188637']",Incorrect
+2_24.jpg,Malignant,"['0.0000847472', '0.9999152422']",Incorrect
+2_22.jpg,Malignant,"['0.0033340885', '0.9966658950']",Incorrect
+2_2.jpg,Malignant,"['0.0000035991', '0.9999964237']",Incorrect
+2_21.jpg,Malignant,"['0.0000135532', '0.9999864101']",Incorrect
+2_25.jpg,Malignant,"['0.0000032419', '0.9999967813']",Incorrect
+2_27.jpg,Malignant,"['0.0000002439', '0.9999997616']",Incorrect
+2_26.jpg,Malignant,"['0.0000000000', '1.0000000000']",Incorrect
+2_29.jpg,Malignant,"['0.0002654213', '0.9997345805']",Incorrect
+2_3.jpg,Malignant,"['0.0020183127', '0.9979816675']",Incorrect
+2_30.jpg,Malignant,"['0.0000000328', '1.0000000000']",Incorrect
+2_31.jpg,Malignant,"['0.0000000575', '1.0000000000']",Incorrect
+2_33.jpg,Malignant,"['0.0000015827', '0.9999984503']",Incorrect
+2_37.jpg,Malignant,"['0.0000111653', '0.9999887943']",Incorrect
+2_36.jpg,Malignant,"['0.0001460812', '0.9998538494']",Incorrect
+2_28.jpg,Malignant,"['0.0025479198', '0.9974520802']",Incorrect
+2_32.jpg,Malignant,"['0.0000000583', '1.0000000000']",Incorrect
+2_34.jpg,Benign,"['0.9964991808', '0.0035007540']",Correct
+2_35.jpg,Malignant,"['0.0002333792', '0.9997666478']",Incorrect
+2_38.jpg,Malignant,"['0.0122383246', '0.9877617359']",Incorrect
+2_39.jpg,Malignant,"['0.0000616116', '0.9999383688']",Incorrect
+2_4.jpg,Malignant,"['0.0004581998', '0.9995418787']",Incorrect
+2_5.jpg,Malignant,"['0.0000000272', '1.0000000000']",Incorrect
+2_6.jpg,Malignant,"['0.0077363839', '0.9922636747']",Incorrect
+2_7.jpg,Malignant,"['0.0000000000', '1.0000000000']",Incorrect
+2_40.jpg,Malignant,"['0.0001387278', '0.9998612404']",Incorrect
+3_1.jpg,Malignant,"['0.0000000000', '1.0000000000']",Incorrect
+3_10.jpg,Malignant,"['0.0000000170', '1.0000000000']",Incorrect
+3_11.jpg,Malignant,"['0.0000017776', '0.9999982119']",Incorrect
+3_0.jpg,Malignant,"['0.0000000001', '1.0000000000']",Incorrect
+2_9.jpg,Malignant,"['0.0000294116', '0.9999705553']",Incorrect
+2_8.jpg,Malignant,"['0.0000001720', '0.9999998808']",Incorrect
+3_12.jpg,Malignant,"['0.0000000001', '1.0000000000']",Incorrect
+3_13.jpg,Malignant,"['0.0045528356', '0.9954470992']",Incorrect
+3_14.jpg,Malignant,"['0.0002568088', '0.9997431636']",Incorrect
+3_15.jpg,Malignant,"['0.0000000001', '1.0000000000']",Incorrect
+3_17.jpg,Malignant,"['0.0000446878', '0.9999552965']",Incorrect
+3_18.jpg,Malignant,"['0.0000000152', '1.0000000000']",Incorrect
+3_2.jpg,Malignant,"['0.0000003713', '0.9999996424']",Incorrect
+3_5.jpg,Malignant,"['0.0000612325', '0.9999387264']",Incorrect
+3_6.jpg,Malignant,"['0.0000022951', '0.9999977350']",Incorrect
+3_16.jpg,Malignant,"['0.0000000011', '1.0000000000']",Incorrect
+3_4.jpg,Benign,"['0.9197061062', '0.0802939236']",Correct
+3_3.jpg,Malignant,"['0.0161726996', '0.9838272333']",Incorrect
+3_7.jpg,Malignant,"['0.0002577940', '0.9997422099']",Incorrect
+3_8.jpg,Malignant,"['0.4861924052', '0.5138075948']",Incorrect
+3_9.jpg,Malignant,"['0.0025386007', '0.9974613190']",Incorrect
